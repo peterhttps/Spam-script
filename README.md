@@ -2,7 +2,7 @@
 
 <center>Este script apenas tem propósitos educacionais</center>
 
-Script criado utilizando Python 3 que tem como propósito enviar mensagens repetidas. Testado e aprovado o funcionamento no WhatsApp Web, Discord e Instagram Web
+Script criado utilizando Python 3 que tem como propósito enviar mensagens repetidas. Testado e aprovado o funcionamento no WhatsApp Web, Discord e Instagram Web.
 
 ## Dependências 
 
